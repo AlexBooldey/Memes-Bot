@@ -1,0 +1,12 @@
+beautifulsoup4==4.6.3
+certifi==2018.8.24
+chardet==3.0.4
+idna==2.7
+pycryptodome==3.6.6
+pyTelegramBotAPI==3.6.6
+PyYAML==3.13
+requests==2.19.1
+six==1.11.0
+ua-parser==0.8.0
+urllib3==1.23
+user-agents==1.1.0
